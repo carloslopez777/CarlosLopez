@@ -1,0 +1,5 @@
+#Archivo de configuración
+/config.json
+
+#Carpeta con archivos que genera el sistema
+files/
